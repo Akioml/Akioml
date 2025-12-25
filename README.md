@@ -4,7 +4,7 @@
 - Atualmente estudo Progrmação pela Alura 💙
 - Atualmente estou realizando o curso de Desenvolvimento Back-end Python 🐍
 - Meu principal objetivo e conseguir uma base solida em programação 📘
-- - E assim conseguir meu primeiro emprego na área de tecnologia. 👷
+- E assim conseguir meu primeiro emprego na área de tecnologia. 👷
 - Para conseguir contato comigo basta encaminhar um e-mail luizzzfelipe70@gmail.com 📫
 
  ## Estou aprendendo
