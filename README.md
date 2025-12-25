@@ -1,9 +1,10 @@
 # Olá, Me chamo Luiz Felipe  👋 
 ## Seja bem vindo ao meu perfil GitHub !   
 
-- Atualmente estudo Progrmação pela Alura 💙.
-- Atualmente estou realizando o curso de Desenvolvimento Back-end Python 🐍.
-- Meu principal objetivo e conseguir uma base solida em programação, e assim conseguir meu primeiro emprego na área de tecnologia.👷
+- Atualmente estudo Progrmação pela Alura 💙
+- Atualmente estou realizando o curso de Desenvolvimento Back-end Python 🐍
+- Meu principal objetivo e conseguir uma base solida em programação 📘
+- - E assim conseguir meu primeiro emprego na área de tecnologia. 👷
 - Para conseguir contato comigo basta encaminhar um e-mail luizzzfelipe70@gmail.com 📫
 
  ## Estou aprendendo
