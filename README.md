@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, Me chamo Luiz Felipe  👋 
+## Seja bem vindo ao meu perfil GitHub !   
 
-<!--
-**Akioml/Akioml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente estudo Progrmação pela Alura 💙.
+- Atualmente estou realizando o curso de Desenvolvimento Back-end Python 🐍.
+- Meu principal objetivo e conseguir uma base solida em programação, e assim conseguir meu primeiro emprego na área de tecnologia.👷
+- Para conseguir contato comigo basta encaminhar um e-mail luizzzfelipe70@gmail.com 📫
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Estou aprendendo
+<div style="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" />      
+</div>
