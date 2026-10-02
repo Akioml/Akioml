@@ -1,15 +1,15 @@
 # Olá, Me chamo Luiz Felipe  👋 
 ## Seja bem vindo ao meu perfil GitHub !   
 
-- Atualmente estudo Progrmação pela Alura 💙
-- Atualmente estou realizando o curso de Desenvolvimento Back-end Python 🐍
-- Meu principal objetivo e conseguir uma base solida em programação 📘
-- E assim conseguir meu primeiro emprego na área de tecnologia. 👷
-- Para conseguir contato comigo basta encaminhar um e-mail luizzzfelipe70@gmail.com 📫
+- Atualmente estou no primeiro semestre da faculdade de Analise e desenvolvimento de Sistema 💙
+- Meu principal objetivo e adquirir uma base sólida em programação e me desenvolver como pessoa 📘
+- Assim conseguir meu primeiro emprego na área de tecnologia. 👷
+- Caso queria entrar em contato comigo e-mail luizzzfelipe70@gmail.com 📫
 
  ## Estou aprendendo
 <div style="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
+  <img src="https://jsdelivr.net" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" />      
 </div>
